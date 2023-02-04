@@ -1,0 +1,36 @@
+tag pembuka yang wajib ada tag penutup
+ ex:<body> </body>, <html></html>
+tag penutup sifatnya optional <p>
+tag yang tidak mempunyai tag penutup
+ ex : <img>, <br>
+
+tag 2:
+logical
+
+	<kbd> </kbd>
+	<address>
+
+physical
+<b> </b>
+
+semantic
+<ol>
+</ol>
+
+atribut:type ="A"
+start = "2"
+
+DL(Definition List)
+DT(Definition Title)
+DD(Definition Data)
+
+Link:
+2:link
+
+Landing page
+anchor, a name, a href
+
+a href --> link ke dokumen berbeda
+
+
+
